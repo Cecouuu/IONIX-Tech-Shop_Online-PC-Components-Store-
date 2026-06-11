@@ -1,0 +1,24 @@
+# Local IDE files
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Runtime and local environment
+.env
+*.log
+
+# Generated/cache files
+__pycache__/
+*.pyc
+
+# User uploaded files, keep directory structure
+assets/uploads/products/*
+!assets/uploads/products/.gitkeep
+
+# Local documentation/build artifacts
+docs/
+tools/

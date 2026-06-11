@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" fill="none">
+  <defs>
+    <linearGradient id="ionixGradient" x1="22" y1="112" x2="104" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#52D4E7"/>
+      <stop offset="1" stop-color="#5642A6"/>
+    </linearGradient>
+  </defs>
+  <path d="M96.762 26.648C67.26 34.491 44.772 61.312 44.772 93.304C44.772 119.679 60.066 142.472 82.289 153.352C54.246 146.679 33 121.481 33 91.552C33 58.369 59.125 30.774 91.972 25L96.762 26.648Z" fill="url(#ionixGradient)"/>
+  <rect x="85" y="55" width="8" height="50" rx="4" fill="#5A5EAF"/>
+</svg>
